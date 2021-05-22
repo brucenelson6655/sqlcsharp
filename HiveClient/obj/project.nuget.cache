@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8LP781ytCVTGL53bE8foibBbIEKxIDTY+JwlP0s54L9g4+m2s0xPJAWoLHTs8A5LAKKj/H8TzVpU8C6Wk16JBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\databricks\\Documents\\source\\sqlacsharp\\HiveClient\\HiveClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\databricks\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\databricks\\.nuget\\packages\\system.data.odbc\\5.0.0\\system.data.odbc.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
